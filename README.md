@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Leon-Drq/6yao-liuyao-skill.git ~/.codex/skills/liuyao-casting
+git clone https://github.com/Leon-Drq/liuyao-skill.git ~/.codex/skills/liuyao-casting
 ```
 
 也可以把本仓库目录复制到 Claude Code、Codex 或其他支持 `SKILL.md` 的 Agent skills 目录，然后调用 `$liuyao-casting`。
