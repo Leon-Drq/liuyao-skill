@@ -1,0 +1,4 @@
+interface:
+  display_name: "六爻起卦"
+  short_description: "从六次铜钱到可复核证据链与现实行动建议"
+  default_prompt: "Use $liuyao-casting to calculate and interpret one concrete Liu Yao question from a reproducible cast."
